@@ -1,0 +1,14 @@
+{
+  "name": "pdi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "piechart.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "echarts": "^5.4.3"
+  }
+}
