@@ -1,0 +1,39 @@
+html {
+  height: 100%
+}
+
+body {
+  height: 100%;
+  margin: 0;
+}
+
+h1 {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+h2 {
+  font-family: sans-serif;
+  text-align: center;
+  text-decoration: underline;
+}
+
+#yeardate {
+  height: 100%;
+}
+
+#origination {
+  height: 100%;
+}
+
+#source {
+  height: 100%;
+}
+
+#arboles {
+  height: 100%;
+}
+
+#libros {
+  height: 100%;
+}
