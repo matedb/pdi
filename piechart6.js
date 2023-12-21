@@ -1,4 +1,4 @@
-var dom = document.getElementById('campanas');
+var dom = document.getElementById('arboles');
   var myChart = echarts.init(dom, {
     renderer: 'canvas',
     useDirtyRect: false
@@ -9,7 +9,7 @@ var option;
 
 option = {
 title: {
-text: 'Programa "Plantemos un Arbol"',
+text: 'Campaña "Campanas de RSU"',
 left: 'center'
 },
 tooltip: {
@@ -24,17 +24,7 @@ series: [
   type: 'pie',
   radius: '50%',
   data: [
-    { value: 13, name: 'Florentino Ameghino' },
-    { value: 1, name: 'Mariano Moreno' },
-    { value: 1, name: 'General Lamadrid' },
-    { value: 2, name: 'San Juan Bautista' },
-    { value: 1, name: 'La Calera' },
-    { value: 2, name: 'Nicolas Avellaneda' },
-    { value: 1, name: 'Malvinas Argentinas' },
-    { value: 2, name: 'Club de Futbol Alumni' },
-    { value: 7, name: 'AquíLasNoticias' },
-    { value: 1, name: 'Archyde' },
-    { value: 11, name: 'Argentina.gob.ar' },
+    { value: 13, name: 'Género' },
     { value: 2, name: 'Argentina.onu' }
   ],
   emphasis: {

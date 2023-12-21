@@ -3,19 +3,24 @@ html {
 }
 
 body {
+  font-family: sans-serif;
   height: 100%;
   margin: 0;
 }
 
 h1 {
-  font-family: sans-serif;
+  margin: 0;
+  padding: 20px;
   text-align: center;
+  background-color: #91d7ff;
 }
 
 h2 {
-  font-family: sans-serif;
   text-align: center;
-  text-decoration: underline;
+}
+
+h3 {
+  text-align: center;
 }
 
 #yeardate {
@@ -27,6 +32,10 @@ h2 {
 }
 
 #source {
+  height: 100%;
+}
+
+#campanas {
   height: 100%;
 }
 
